@@ -1,15 +1,10 @@
-<script>
-  import screenshot from '$lib/assets/firefox-devtools.png';
-</script>
-
-
 <svelte:head>
   <title>Firefox DevTools - Pat McGhen | Fullstack Developer</title>
 </svelte:head>
 
 <h1>Firefox DevTools Bug 1743334</h1>
 
-<img src={screenshot} alt="">
+<img src="/images/firefox-devtools.png" alt="">
 
 <p>
   I'm a big believer in open source software, so this was an opportunity to not

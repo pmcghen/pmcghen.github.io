@@ -1,14 +1,10 @@
-<script>
-  import screenshot from '$lib/assets/accessible-web-components.png';
-</script>
-
 <svelte:head>
   <title>Accessible Web Components - Pat McGhen | Full Stack Developer</title>
 </svelte:head>
 
 <h1>Accessible Web Components</h1>
 
-<img src={screenshot} alt="">
+<img src="/images/accessible-web-components.png" alt="">
 
 <p>
   I was recently tasked with updating part of my employer's marketing website
