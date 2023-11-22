@@ -1,7 +1,3 @@
-<script>
-  import { base } from '$app/paths';
-</script>
-
 <svelte:head>
   <title>Pat McGhen | Full stack developer</title>
 </svelte:head>
@@ -14,6 +10,6 @@
 </p>
 
 <ul>
-  <li><a href="{base}/work/accessible-web-components">Accessible Web Components</a></li>
-  <li><a href="{base}/work/firefox-dev-tools">Firefox DevTools</a></li>
+  <li><a href="/work/accessible-web-components">Accessible Web Components</a></li>
+  <li><a href="/work/firefox-dev-tools">Firefox DevTools</a></li>
 </ul>
