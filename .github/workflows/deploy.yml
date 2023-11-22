@@ -17,7 +17,7 @@ jobs:
         run: npm ci
       - name: build
         env:
-          BASE_PATH: 'https://${{ github.event.repository.name }}'
+          BASE_PATH: ''
         run: |
           npm run build
       - name: Upload artifacts
