@@ -1,7 +1,3 @@
-<script>
-  import Footer from "../components/Footer.svelte";
-</script>
-
 <header>
   <nav aria-label="Main navigation">
     <ul>
